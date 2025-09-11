@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm An Tran  
 
-🔍 **Fraud Prevention Specialist | Risk Operations | Data Enthusiast**  
-
 I’m an **analytical and results-oriented professional** with proven expertise in **fraud detection, risk operations, and digital platform security**.  
 I also bring experience in **hotel distribution connectivity & OTA management**, where I’ve applied **SQL** and **XML log analysis** to troubleshoot complex inventory and booking issues.  
 
