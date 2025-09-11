@@ -32,7 +32,3 @@ Welcome to my [**Portfolio**](https://github.com/htantran/Portfolio), where I sh
   - Hotel Distribution Connectivity  
   - OTA (Online Travel Agency) Management  
   - Digital Marketing & Data Insights  
-
----
-
-💡 *Always curious, always learning — open to collaboration and knowledge sharing!*  
