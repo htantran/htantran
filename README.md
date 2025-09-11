@@ -11,8 +11,6 @@ On top of that, I bring experience in **hotel distribution connectivity & OTA ma
 
 ## 🌐 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-An%20Tran-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/an-tran-464458210/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-black?style=flat-square&logo=github)](https://github.com/htantran/Portfolio)
-
 ---
 
 ## 🚀 Featured Projects  
