@@ -4,6 +4,10 @@ I'm an analytical and results-oriented Fraud Prevention Specialist with proven e
 
 Let's connect via [Linkedin](https://www.linkedin.com/in/an-tran-464458210/) 
 
+**Projects**
+
+Welcome to my [portfolio](https://github.com/htantran/Portfolio), where I showcase my projects
+
 **Tech Stack & Skills**
 
 - **Languages:** Python, SQL
