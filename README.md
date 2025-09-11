@@ -7,4 +7,4 @@ Let's connect via [Linkedin](https://www.linkedin.com/in/an-tran-464458210/)
 **Tech Stack & Skills**
 
 - **Languages:** Python, SQL
-- **Expertise:** Fraud Monitoring, Hotel Distribution Connectivity, OTA management
+- **Expertise:** Fraud Monitoring, Hotel Distribution Connectivity, OTA management, Digital Marketing
